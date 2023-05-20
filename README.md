@@ -1,9 +1,1 @@
-"# TugasSesi9" 
-"# TugasSesi10" 
-"# TugasSesi10" 
-"# TugasSesi10" 
-"# TugasSesi10" 
-"# TugasSesi10" 
-"# TugasSesi10" 
-"# TugasSesi10" 
-"# TugasSesi10" 
+Tugas Sesi 1o
